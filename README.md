@@ -8,8 +8,11 @@
 * [Getting Real](https://gettingreal.37signals.com/) - A book about a faster, easier way to build a successful web application.
 * [REMOTE](http://37signals.com/remote) - A book that shows insights about remote working by Jason Fried and David Heinemeier Hansson.
 * [REWORK](http://37signals.com/rework/) - A book that shows shows another way to succeed in business by Jason Fried and David Heinemeier Hansson.
-* [Start With Why](https://www.startwithwhy.com/) – A book about what it takes to lead and inspire by Simon Sinek.
-* [Leaders Eat Last](https://www.startwithwhy.com/) – A book about why some teams pull together and others don't by Simon Sinek.
+* [Start With Why](https://simonsinek.com/books/start-with-why/) – A book about what it takes to lead and inspire by Simon Sinek.
+* [Find Your Why](https://simonsinek.com/books/find-your-why/) – A book that provides practical steps to discover your purpose and bring it to life in your career and organization by Simon Sinek.
+* [Leaders Eat Last](https://simonsinek.com/books/leaders-eat-last/) – A book about why some teams pull together and others don't by Simon Sinek.
+* [The Infinite Game](https://simonsinek.com/books/the-infinite-game/) – A book about how to apply game theory to succeed in business and life by Simon Sinek
+* [Together is Better](https://simonsinek.com/books/together-is-better/) – A book about inspiring others and discovering courage through a charming story about change by Simon Sinek
 
 ### Startup
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) - A book that shows an approach to create a successful startup by Eric Ries.
